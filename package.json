@@ -1,0 +1,28 @@
+{
+  "name": "blog_nodejs",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trannamanh218/nodejs_test.git"
+  },
+  "keywords": [
+    "blog",
+    "test"
+  ],
+  "author": "nam anh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trannamanh218/nodejs_test/issues"
+  },
+  "homepage": "https://github.com/trannamanh218/nodejs_test#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
